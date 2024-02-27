@@ -151,6 +151,15 @@ form > table {
     border: 1px solid white;
 }
 
+.border {
+    padding: 20px;
+    width: 500px;
+    height: 200px;
+    border: 1px solid black;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: top;
+}
 footer {
     border-top: 1px solid black;
     padding-right: 60px;
